@@ -12,6 +12,8 @@ El **Conversor de MKV a MP3** es una herramienta sencilla y eficiente diseñada 
 - **Selección de pistas de audio**: Permite seleccionar la pista de audio deseada de un archivo MKV.
 - **Conversión rápida**: Convierte rápidamente la pista de audio seleccionada a formato MP3.
 - **Animación de progreso**: Muestra una animación mientras se realiza la conversión.
+- ![imagen](https://github.com/fredycoding/mkvextractor/assets/16197568/e430ea71-1082-43cf-8e1e-dd6d5fd6e395)
+
 
 ## Requisitos del sistema
 
