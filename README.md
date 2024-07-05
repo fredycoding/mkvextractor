@@ -33,7 +33,7 @@ Para que este software funcione correctamente, necesitas tener instalados los si
 
 ### Uso del Instalador
 
-1. Descomprime y descarga el archivo de instalador [Instalador_Conversor_MKV_a_MP3.zip](https://github.com/fredycoding/mkvextractor/raw/main/Output/Instalador_Conversor_MKV_a_MP3.zip).
+1. Descarga y descomprime el archivo de instalador [Instalador_Conversor_MKV_a_MP3.zip](https://github.com/fredycoding/mkvextractor/raw/main/Output/Instalador_Conversor_MKV_a_MP3.zip).
 2. Ejecuta el instalador y sigue las instrucciones en pantalla.
    - Si aparece una advertencia de Windows Defender, sigue estos pasos:
    - Haz clic en "Más información".
