@@ -31,8 +31,6 @@ Para que este software funcione correctamente, necesitas tener instalados los si
 
 ## Instalación
 
-
-
 ### Uso del Instalador
 
 1. Descomprime y descarga el archivo de instalador [Instalador_Conversor_MKV_a_MP3.zip](https://github.com/fredycoding/mkvextractor/raw/main/Output/Instalador_Conversor_MKV_a_MP3.zip).
@@ -43,13 +41,9 @@ Para que este software funcione correctamente, necesitas tener instalados los si
 3. Sigue las instrucciones en pantalla para completar la instalación.
 4. Una vez completada la instalación, puedes encontrar el programa en el menú de inicio o en el escritorio.
 
-5. Una vez completada la instalación, puedes encontrar el programa en el menú de inicio o en el escritorio.
-
-
 ### Ejecución desde el Código Fuente
 
 1. Asegúrate de tener Python instalado en tu sistema.
 2. Clona este repositorio o descarga el código fuente.
 3. Instala las dependencias necesarias:
-   ```sh
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
